@@ -4,7 +4,7 @@ Sample test scripts have been written to execute test scripts across three platf
 
 ------------------------------------------------------------------------
 
-### Description of Project Files
+### Descriptions of Project Files
 1. Driver.java : Contains java main method which runs the programmatically generated testng.xml.  
 
 2. DriverFactory.java : Creates and returns WebDriver instance to run automated tests against desktop browsers, device browser and        android app. 

@@ -41,6 +41,6 @@
           "maxSession":2
 ,
           "Dwebdriver.ie.driver=IEDriverServer.exe": ""		
-        }
+      }
 
 }

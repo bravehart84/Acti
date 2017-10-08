@@ -47,7 +47,7 @@ public class DriverFactory {
 					.withAppiumJS(new File("C:/Program Files (x86)/Appium/node_modules/appium/bin/appium.js")));
 
 	
-	/* For Device Only - START APPIUM SERVER */
+	/* For Device ONLY - START APPIUM SERVER */
 	protected void appiumStart() {
 		if (service.isRunning() == true) {
 			service.stop();

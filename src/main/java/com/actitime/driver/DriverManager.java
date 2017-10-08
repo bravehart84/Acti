@@ -128,7 +128,7 @@ public class DriverManager {
 	}
 
 	/**
-	 * This method retrieves all properties from the StandAloneEnvProperties
+	 * This method retrieves all properties from StandAloneEnvProperties
 	 * file
 	 **/
 	protected static void retrieveStandAloneEnvProperties() {

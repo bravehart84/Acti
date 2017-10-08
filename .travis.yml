@@ -1,4 +1,4 @@
 language: java
 sudo: false
 install: true
-script: mvn clean compile
+scripts: mvn clean compile

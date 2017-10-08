@@ -8,7 +8,7 @@ import com.actitime.tests.base.BaseTest;
 import com.actitime.utils.FileUtilityManager;
 
 /*
- * Login Test Script
+ * Login Test Scripts
  */
 public class Login extends BaseTest {
 	@Test
