@@ -40,7 +40,7 @@
 			
           "maxSession":2
 ,
-          "Dwebdriver.chrome.driver=C:\Users\anuj_d\Desktop\anuj\Github_Actitime\ActiTimeProject\actiTime-test-framework\src\main\resources\chromedriver\chromedriver.exe": ""		
+          "Dwebdriver.chrome.driver=C:\Users\stabo\Desktop\Github_Actitime\ActiTimeProject\actiTime-test-framework\src\main\resources\chromedriver\chromedriver.exe": ""		
         }
 
 }

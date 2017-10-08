@@ -1,4 +1,4 @@
-#To configure a hub
+# Configure a hub
 java -jar <selenium server standalone> -role hub
 ex: java -jar selenium-server-standalone-2.53.0.jar -role hub
 
